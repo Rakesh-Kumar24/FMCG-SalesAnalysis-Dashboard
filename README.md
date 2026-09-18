@@ -12,8 +12,6 @@ The dashboard consolidates data from **Sales, Products, Customers, Date, and Geo
 This Power BI solution consists of **four interactive report pages**, each designed with a specific analytical purpose.  
 The images below provide a visual preview of every page in the dashboard.
 
-> 🔹 Replace the image paths below with the actual GitHub paths after uploading your screenshots.
-
 ---
 
 ### 🏠 1. Homepage  
@@ -54,7 +52,21 @@ data sources used, DAX calculations, RLS configuration, navigation guidance,
 and performance optimization practices followed during development.
 
 ---
+### 📊 5. Quantity Tooltip
 
+![Quantity Tooltip Preview](/Quantity%20Tooltip.png)
+
+The **Quantity Tooltip** provides a detailed view of the quantity purchased by a selected customer across different quarters. It helps users quickly understand **purchase volume and customer buying patterns** without leaving the main dashboard.
+
+---
+
+### 💰 6. Sales Tooltip
+
+![Sales Tooltip Preview](/Sales%20Tool%20Tip.png)
+
+The **Sales Tooltip** displays the sales performance of a selected customer across different quarters. It provides a quick view of **customer-wise sales trends and purchasing contribution** within the dashboard.
+
+---
 
 ## Tools Used  
 - **Excel** – Primary data source and initial exploration  
